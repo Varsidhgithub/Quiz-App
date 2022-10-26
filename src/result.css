@@ -1,0 +1,44 @@
+.result {
+  text-align: center;
+}
+.resulticon {
+  font-size: 80px;
+  color: #57b846;
+}
+.result p {
+  font-size: 40px;
+  color: #57b846;
+}
+.resultmain {
+  background-color: #40407a;
+  height: 100vh;
+  /* padding-bottom: 115px; */
+}
+.resultp {
+  font-size: 37px;
+  font-weight: 10;
+}
+.resultdesc {
+  font-size: 45px;
+  font-weight: 1px !important;
+  color: #23a5f2;
+}
+.ans {
+  padding-bottom: 0px !important;
+  margin-bottom: 0px !important;
+}
+.again {
+  color: #23a5f2 !important;
+  background-color: #40407a !important;
+  border-radius: 0px !important;
+  padding-left: 40px !important;
+  padding-right: 40px !important;
+}
+.home {
+  color: #57b846 !important;
+  background-color: #40407a !important;
+  border-radius: 0px !important;
+  border-color: #57b846 !important;
+  padding-left: 40px !important;
+  padding-right: 40px !important;
+}
